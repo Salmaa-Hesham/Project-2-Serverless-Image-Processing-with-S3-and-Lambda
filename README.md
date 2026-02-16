@@ -27,7 +27,7 @@ The architecture follows an **event-driven serverless design**.
 - **Amazon DynamoDB**
   - Stores metadata about processed images
 
-- **AWS Step Functions (Optional)**
+- **AWS Step Functions**
   - Orchestrates processing workflow steps
 
 ---
